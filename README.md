@@ -12,5 +12,6 @@ Features
 </ul>
 <h4>Frontend</h4>
 <ul>
-  <li>React</li>
-  <li>CSS Modules</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
