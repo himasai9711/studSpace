@@ -6,7 +6,7 @@ The main purpose behind creating this community portal application is to bring t
 <h4>Backend</h4>
 <ul>
   <li>Django</li>
-  <li>Postgresql</li>
+  <li>SQlite</li>
 </ul>
 <h4>Frontend</h4>
 <ul>
