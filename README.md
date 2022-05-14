@@ -21,6 +21,7 @@ The main purpose behind creating this community portal application is to bring t
   <li>Ability to create, edit and delete posts.</li>
   <li>Ability to create, edit, delete comments and reply to comments.</li>
   <li>Ability to create categories for posts.</li>
+  <li>Ability to search for the related questions through tags.</li>
   <li>Nested comments (of unlimited length) with vertical lines to improve user experience when reading comment threads.</li>
   <li>Ability to show and hide replies.</li>
   <li>Ability to upvote and downvote posts and comments.</li>
