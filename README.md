@@ -5,3 +5,9 @@ The main purpose behind creating this community portal application is to bring t
 
 
 Features
+Technologies used
+frontend
+html,css
+backend
+django
+postgreSQL
