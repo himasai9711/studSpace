@@ -5,9 +5,14 @@ The main purpose behind creating this community portal application is to bring t
 
 
 Features
-Technologies used: 
-frontend-
->html >css
-backend-
->django
->postgreSQL
+
+<h3>Technologies Used</h3>
+<h4>Backend</h4>
+<ul>
+  <li>Django</li>
+  <li>Postgresql</li>
+</ul>
+<h4>Frontend</h4>
+<ul>
+  <li>React</li>
+  <li>CSS Modules</li>
