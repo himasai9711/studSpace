@@ -5,14 +5,15 @@ The main purpose behind creating this community portal application is to bring t
 <h3>Technologies Used</h3>
 <h4>Backend</h4>
 <ul>
-  <li>Django</li>
-  <li>SQlite</li>
+  <li>nodejs</li>
+  <li>javascrit</li>
 </ul>
 <h4>Frontend</h4>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
+  <li>react</li>
 
   
 <h3>Features</h3>
