@@ -10,7 +10,7 @@ Features
 5.create, update, delete post
 5.Editing of  his/her post by the logged in user
 6.Storing all the post related and sign up related data
-7.like , unlike features
-8.search option
-9.comments box
+7.like, dislike for posts
+8.search option for finding communities
+9.comments section (can be sorted by new,old, latest)
 
